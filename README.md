@@ -1,4 +1,4 @@
-##Sales Data Analysis
+## Sales Data Analysis
 
 This project analyzes sales data for athletic products across various retailers, regions, states, and cities. The dataset includes sales information for 2020 and 2021. Below is a summary of the operations performed and the corresponding code.
 
